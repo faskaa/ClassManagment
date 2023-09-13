@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ClassManagment/1.0.0": {
+        "dependencies": {
+          "ConsoleTables": "2.5.0"
+        },
+        "runtime": {
+          "ClassManagment.dll": {}
+        }
+      },
+      "ConsoleTables/2.5.0": {
+        "runtime": {
+          "lib/netstandard2.1/ConsoleTables.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.5.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassManagment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleTables/2.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lfXLGH1coDInONveyIW5ufJWT/P5KbMRRV0cbR7CBnoZLNLZeTY51QUrAmtsX+gIWj7xlY9FSmg1sBYhXMmuuw==",
+      "path": "consoletables/2.5.0",
+      "hashPath": "consoletables.2.5.0.nupkg.sha512"
+    }
+  }
+}

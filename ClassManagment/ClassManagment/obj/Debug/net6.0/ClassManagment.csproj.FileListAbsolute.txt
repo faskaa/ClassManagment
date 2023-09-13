@@ -1,0 +1,17 @@
+C:\Users\acer\Desktop\ClassManagment\ClassManagment\ClassManagment\obj\Debug\net6.0\ClassManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\ClassManagment\ClassManagment\ClassManagment\obj\Debug\net6.0\ClassManagment.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\ClassManagment\ClassManagment\ClassManagment\obj\Debug\net6.0\ClassManagment.AssemblyInfo.cs
+C:\Users\acer\Desktop\ClassManagment\ClassManagment\ClassManagment\obj\Debug\net6.0\ClassManagment.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\ClassManagment\ClassManagment\ClassManagment\bin\Debug\net6.0\ClassManagment.exe
+C:\Users\acer\Desktop\ClassManagment\ClassManagment\ClassManagment\bin\Debug\net6.0\ClassManagment.deps.json
+C:\Users\acer\Desktop\ClassManagment\ClassManagment\ClassManagment\bin\Debug\net6.0\ClassManagment.runtimeconfig.json
+C:\Users\acer\Desktop\ClassManagment\ClassManagment\ClassManagment\bin\Debug\net6.0\ClassManagment.dll
+C:\Users\acer\Desktop\ClassManagment\ClassManagment\ClassManagment\bin\Debug\net6.0\ClassManagment.pdb
+C:\Users\acer\Desktop\ClassManagment\ClassManagment\ClassManagment\obj\Debug\net6.0\ClassManagment.dll
+C:\Users\acer\Desktop\ClassManagment\ClassManagment\ClassManagment\obj\Debug\net6.0\refint\ClassManagment.dll
+C:\Users\acer\Desktop\ClassManagment\ClassManagment\ClassManagment\obj\Debug\net6.0\ClassManagment.pdb
+C:\Users\acer\Desktop\ClassManagment\ClassManagment\ClassManagment\obj\Debug\net6.0\ClassManagment.genruntimeconfig.cache
+C:\Users\acer\Desktop\ClassManagment\ClassManagment\ClassManagment\obj\Debug\net6.0\ref\ClassManagment.dll
+C:\Users\acer\Desktop\ClassManagment\ClassManagment\ClassManagment\bin\Debug\net6.0\ConsoleTables.dll
+C:\Users\acer\Desktop\ClassManagment\ClassManagment\ClassManagment\obj\Debug\net6.0\ClassManagment.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\ClassManagment\ClassManagment\ClassManagment\obj\Debug\net6.0\ClassManagment.csproj.CopyComplete

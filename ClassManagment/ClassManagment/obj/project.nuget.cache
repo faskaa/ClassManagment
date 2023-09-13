@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A+vLIl2cWN4lq8U+A0GFBNR1GfS6bv98kEIjFGcQ7aKBaVNszV9mr9y5DVDYhMHU3F/P4Xo/SEsGOl6PdrUofw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\Desktop\\ClassManagment\\ClassManagment\\ClassManagment\\ClassManagment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\consoletables\\2.5.0\\consoletables.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
